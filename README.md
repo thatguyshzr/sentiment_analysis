@@ -1,2 +1,3 @@
-# sentiment_analysis
- Python notebook for twitter sentimental analysis hackathon.
+# Sentiment Analysis
+
+Predicting user sentiments towards an event, using natural language processing.
